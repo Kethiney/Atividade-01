@@ -1,0 +1,9 @@
+.home{
+    display:flex;
+    height: 100px;
+}
+.home h1{
+    display: inline-flex;
+    width: 100%;
+    border: 5px double blue;
+}
